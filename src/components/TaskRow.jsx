@@ -1,6 +1,6 @@
 import { memo} from 'react';
 
-const TaskRow = memo( ({task}) => {
+const TaskRow = memo( ({task}) => {                                /
     return (
         <tr>
             <td>{task.title}</td>

@@ -40,3 +40,6 @@ export default function TaskList (){
 // "Doing" → giallo
 // "Done" → verde
 // Utilizzare React.memo() su TaskRow.jsx per ottimizzare le prestazioni ed evitare render inutili.
+
+
+
