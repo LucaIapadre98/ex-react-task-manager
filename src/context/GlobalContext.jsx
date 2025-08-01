@@ -8,4 +8,4 @@ export const GlobalProvider = ({ children }) => {                            // 
             {children}
         </GlobalContext.Provider>
     );
-}
+};
