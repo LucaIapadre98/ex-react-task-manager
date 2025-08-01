@@ -22,3 +22,13 @@ nav button {
 div{
     height: 100%;
 }
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+table{
+    width: 50%;
+    border: #007bff 1px solid;
+    margin: 20px auto;
+    border-radius: 5%;
+}
